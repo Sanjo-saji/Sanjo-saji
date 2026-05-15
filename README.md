@@ -1,12 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=200&section=header&text=Sanjo%20Saji&fontSize=70&animation=fadeIn&fontAlignY=38&desc=AI/ML%20|%20Backend%20Developer&descAlignY=62&descSize=20" width="100%" />
-</p>
-
-<h3 align="center">Passionate developer building clean APIs, data-driven systems, and intelligent models.</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sanjo-saji/Sanjo-saji/main/banner.png" onerror="this.src='https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Sanjo%20Saji&fontSize=50&desc=Backend%20%26%20AI/ML%20Developer&descSize=20'" width="100%" />
-</p>
+<img width="1889" height="512" alt="sanjo" src="https://github.com/user-attachments/assets/89d49ef6-02fe-4fa1-bf9d-d69d3e4c3048" />
 
 ---
 
