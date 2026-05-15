@@ -5,7 +5,7 @@
 <h3 align="center">Passionate developer building clean APIs, data-driven systems, and intelligent models.</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sanjo-saji&label=Profile%20views&color=0e75b6&style=flat" alt="Sanjo-saji" />
+  <img src="https://raw.githubusercontent.com/Sanjo-saji/Sanjo-saji/main/banner.png" onerror="this.src='https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Sanjo%20Saji&fontSize=50&desc=Backend%20%26%20AI/ML%20Developer&descSize=20'" width="100%" />
 </p>
 
 ---
