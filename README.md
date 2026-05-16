@@ -23,11 +23,9 @@
 
 ### 📊 Performance Metrics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanjo-saji&show_icons=true&theme=dark" alt="Sanjo-saji stats" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanjo-saji&show_icons=true&layout=compact&theme=dark" alt="Sanjo-saji languages" /><br/>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjo-saji&theme=dark" alt="Sanjo-saji streak" />
-</div>
+</p>
 
 ---
 
