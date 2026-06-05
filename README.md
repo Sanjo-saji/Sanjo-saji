@@ -32,6 +32,5 @@
 ### 🤝 Let's Connect
 <p align="left">
 <a href="https://linkedin.com/in/sanjo-saji" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://kaggle.com/sanj0" target="blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
 <a href="https://instagram.com/sanjo__saji" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
